@@ -1,2 +1,2 @@
-# LES_2024_PORTFOLIO
-lee eun seo 2024 portfolio
+# 2024-PORTFOLIO-LES
+https://hg231049.github.io/2024-LES-PORTFOLIO/
